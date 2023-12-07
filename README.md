@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juliane</h1>
-<h3 align="center">A passionate fullstack developer based in Vienna</h3>
+<h3 align="center">A passionate full-stack web developer based in Vienna</h3>
 
 - 🌱 I’m currently learning **Symfony**
 
